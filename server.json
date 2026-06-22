@@ -5,7 +5,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "http://localhost:3000/api/gw/mcp/378f98be-db3b-4e4c-94a4-05aef8a56957"
+      "url": "http://localhost:3000/api/gw/mcp/e4a8fcac-a496-4e65-8456-74fb1d656e03"
     }
   ]
 }
